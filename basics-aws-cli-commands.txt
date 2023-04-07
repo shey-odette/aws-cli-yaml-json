@@ -1,4 +1,4 @@
-# aws configure odette
+# aws configure odette, richard
 it is used to configure aws cli to my pc
 # aws s3 mb s3://bucket-nam 
 used to creat s3 bucket on aws cli
