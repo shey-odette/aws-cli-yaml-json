@@ -6,3 +6,4 @@ used to creat s3 bucket on aws cli
 it used to copy a file from your aws cli to you s3 bucket
 #aws s3 rm s3://bucket-name/file.tx
 it is used to delete a files from my aws  s3 bucket
+
